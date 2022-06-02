@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Demo Blog</title>
+    <link>https://demo-blog.nova-adc.com/pages/</link>
+    <description>Recent content in Pages on Demo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://demo-blog.nova-adc.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://demo-blog.nova-adc.com/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo-blog.nova-adc.com/pages/about/</guid>
+      <description>Load balancing and WAF for modern applications Nova is an any-cloud, multi-location, centralized platform for deploying, controlling, and monitoring load balancers and web app firewalls at scale.
+Register today for a free account and try the Nova ADC solution in minutes.</description>
+    </item>
+    
+  </channel>
+</rss>

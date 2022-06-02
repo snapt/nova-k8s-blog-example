@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This site is secure, fast, and online on Demo Blog</title>
+    <link>https://demo-blog.nova-adc.com/</link>
+    <description>Recent content in This site is secure, fast, and online on Demo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jun 2022 15:46:16 +0200</lastBuildDate><atom:link href="https://demo-blog.nova-adc.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://demo-blog.nova-adc.com/posts/my-second-post/</link>
+      <pubDate>Thu, 02 Jun 2022 15:46:16 +0200</pubDate>
+      
+      <guid>https://demo-blog.nova-adc.com/posts/my-second-post/</guid>
+      <description>Quisque elementum tristique sapien, fringilla ultrices quam lobortis ut. Integer vel mollis est, in bibendum dolor. Aliquam erat volutpat. Cras efficitur ex non felis dignissim, vitae dictum augue scelerisque. Sed dignissim ornare nisl, at varius quam finibus ut. Praesent leo quam, fringilla ac pulvinar ut, mollis ut orci. Nullam dui massa, blandit a neque in, egestas elementum eros. Fusce lobortis, ligula ac blandit placerat, mi ipsum laoreet felis, ac sodales neque mauris vel odio.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://demo-blog.nova-adc.com/posts/my-first-post/</link>
+      <pubDate>Thu, 02 Jun 2022 15:46:13 +0200</pubDate>
+      
+      <guid>https://demo-blog.nova-adc.com/posts/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies iaculis libero, in tempus massa. Vivamus viverra, tellus eget laoreet mattis, eros quam varius augue, quis fermentum massa arcu ut ante. Vestibulum tempus vitae mauris quis commodo. Integer ut vestibulum erat. Proin sit amet gravida massa. In feugiat gravida nisl sit amet commodo. Sed eu nibh leo. Ut tincidunt posuere volutpat. Duis et rutrum dolor.
+Duis elementum ante eu vestibulum posuere.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://demo-blog.nova-adc.com/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo-blog.nova-adc.com/pages/about/</guid>
+      <description>Load balancing and WAF for modern applications Nova is an any-cloud, multi-location, centralized platform for deploying, controlling, and monitoring load balancers and web app firewalls at scale.
+Register today for a free account and try the Nova ADC solution in minutes.</description>
+    </item>
+    
+  </channel>
+</rss>
